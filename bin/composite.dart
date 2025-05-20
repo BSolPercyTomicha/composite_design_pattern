@@ -1,5 +1,4 @@
-import 'package:composite/course.dart';
-import 'package:composite/programa.dart';
+import 'package:composite/composite.dart';
 
 void main(List<String> arguments) {
   final math = Course('Matemáticas', 40);
