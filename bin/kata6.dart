@@ -1,4 +1,4 @@
-import 'package:composite/composite.dart';
+import 'package:composite/kata6.dart';
 
 void main(List<String> arguments) {
   final math = Course('Matemáticas', 40);
